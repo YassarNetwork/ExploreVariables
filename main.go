@@ -7,6 +7,7 @@ import (
 
 func main() {
 	
+		// Changed to test Git Hub
 	//TODO : Naming covention 4variables
 	
 	//////////////////////// Int //////////////////////////
