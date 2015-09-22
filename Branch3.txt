@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Barnch 3.txt
+=======
+Branch 4..
+>>>>>>> origin/master
